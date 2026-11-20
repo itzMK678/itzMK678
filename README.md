@@ -92,22 +92,13 @@ A real-time communication application built with a full-stack JavaScript archite
 
 🔗 [View Repository](https://github.com/itzMK678/Chat)
 
-### 3. FAI AVENIQ — Educational AI Backend
+### ✈️ MK Travelling Agency
 
-An AI-powered backend service designed for intelligent educational workflows and AI-assisted learning.
+A travel agency website built to showcase travel packages and help visitors explore travel options. It features favourite and custom travel packages, a package collection, travel blogs, an image gallery, FAQs, and a contact section.
 
-**Key Features:**
-- AI-powered educational chat.
-- Teacher and student assistance endpoints.
-- Examination preparation and quiz generation.
-- Document processing and knowledge-library search.
-- Semantic and keyword-based retrieval.
+**Tech Stack:** Next.js, React, Tailwind CSS, GSAP, Lucide React, Mongoose.
 
-**Tech Stack:** TypeScript, Node.js, Express, Gemini API, Semantic Search.
-
-🔗 [View Repository](https://github.com/itzMK678/backend)
-
----
+[🔗 View Project](https://github.com/itzMK678/MK-Travelling-Agency)
 
 ## 📊 GitHub Statistics
 
